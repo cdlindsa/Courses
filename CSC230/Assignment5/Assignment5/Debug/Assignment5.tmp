@@ -1,0 +1,74 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\Debug\Assignment5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Assignment5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Assignment5.map</FILE>
+  <FILE>Assignment5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <initialize><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>42</LINE></initialize>
+  <timer1_ISR><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>336</LINE></timer1_ISR>
+  <msg1><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>508</LINE></msg1>
+  <msg1_p><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>494</LINE></msg1_p>
+  <get_message><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>139</LINE></get_message>
+  <msg2><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>509</LINE></msg2>
+  <msg2_p><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>495</LINE></msg2_p>
+  <msg3><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>510</LINE></msg3>
+  <reverse><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>223</LINE></reverse>
+  <msg4><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>511</LINE></msg4>
+  <line1><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>504</LINE></line1>
+  <startString><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>493</LINE></startString>
+  <line2><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>505</LINE></line2>
+  <display><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>164</LINE></display>
+  <timer1_setup><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>278</LINE></timer1_setup>
+  <main><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>136</LINE></main>
+  <gm_loop><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>147</LINE></gm_loop>
+  <gm_done><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>155</LINE></gm_done>
+  <LCDCacheTopLine><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>512</LINE></LCDCacheTopLine>
+  <loop><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>185</LINE></loop>
+  <loop2><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>192</LINE></loop2>
+  <LCDCacheBottom><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>513</LINE></LCDCacheBottom>
+  <loop2_b><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>200</LINE></loop2_b>
+  <display_done><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>207</LINE></display_done>
+  <rev_loop><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>245</LINE></rev_loop>
+  <pop_stack_init><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>251</LINE></pop_stack_init>
+  <rev_done><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>258</LINE></rev_done>
+  <modulus><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>318</LINE></modulus>
+  <lp><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>324</LINE></lp>
+  <done_mod><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>328</LINE></done_mod>
+  <starting><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>376</LINE></starting>
+  <switch_on><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>368</LINE></switch_on>
+  <switch_return><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>388</LINE></switch_return>
+  <increase><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>464</LINE></increase>
+  <main1><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>398</LINE></main1>
+  <main0><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>393</LINE></main0>
+  <main0_display><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>414</LINE></main0_display>
+  <main1_display><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>425</LINE></main1_display>
+  <main2><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>403</LINE></main2>
+  <main2_display><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>436</LINE></main2_display>
+  <main3><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>408</LINE></main3>
+  <main3_display><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>447</LINE></main3_display>
+  <switch_check><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>459</LINE></switch_check>
+  <decrease><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>467</LINE></decrease>
+  <msg_change><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>472</LINE></msg_change>
+  <end><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>479</LINE></end>
+  <line3><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>506</LINE></line3>
+  <line4><FILE>G:\My Drive\Classes\CSC230\Assignments\Assignment 5\Assignment5\Assignment5\display.asm</FILE><LINE>507</LINE></line4>
+ </LABELS>
+</ASSEMBLER_INFO>

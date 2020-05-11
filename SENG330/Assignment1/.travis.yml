@@ -1,0 +1,10 @@
+sudo: false
+language: java
+
+script:
+  - export WD=$PWD
+  - pushd /tmp
+  - git clone https://$GHTOKEN@github.com/SENG330/InstructorTests2020.git
+  - cp InstructorTests2020/assn1-dnd/InstructorTests.java $WD/src/test/java/.
+  - popd
+  - gradle test
