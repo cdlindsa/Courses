@@ -1,7 +1,6 @@
 # Courses
 Coding assignments from previous courses.<br>
 <br>
-# Courses
 CSC230: Introduction to Computer Architecture<br>
 Language(s): Assembly for AtmelMega2560<br>
 Course Instructor: Dr. LillAnne Jackson<br>
