@@ -47,3 +47,8 @@ Assignment 2: Using the Fashion-MNIST library from Zalando Research, developed, 
 Assignment 3: Using a provided database, developed, optimized, and analyzed unsupervised machine learning models using Lloyd's algorithm (k-means) and hierarchical agglomerative clustering. k-means implementation was custom, using either uniform random initialization or k-means++ initialization.<br>
 Group Project: Our group used the National Cancer Institute's (NIH) Surveillance, Epidemiology, and End Results Program (SEER) (https://seer.cancer.gov/) database to train various supervised machine learning models  to develop a potential prognostic model of oropharyngeal squamous cell carcinomas (head and neck cancer subset) and compare it to traditional survival curves.<br>
 <br>
+HINF680: PhD Seminar<br>
+Language(s): SQL<br>
+Course Instructor: Dr. Claudia Lai<br>
+Final Report: Create a database design prototype.<br>
+<br>
